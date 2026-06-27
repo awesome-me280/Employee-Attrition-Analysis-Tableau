@@ -1,11 +1,11 @@
-# 👥 Employee Attrition Analysis Dashboard (Tableau)
+# Employee Attrition Analysis Dashboard (Tableau)
 
-## 📌 Overview
+## Overview
 This project analyzes employee attrition patterns across departments and job roles using Tableau. The dashboard helps HR teams understand workforce distribution and identify areas with higher attrition risk.
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 Organizations face challenges in retaining employees. This dashboard helps answer:
 
 - Which departments have the highest attrition?
@@ -15,7 +15,7 @@ Organizations face challenges in retaining employees. This dashboard helps answe
 
 ---
 
-## 📊 Dataset
+## Dataset
 - HR Employee dataset (IBM-style attrition dataset)
 - Includes:
   - Department
@@ -25,7 +25,7 @@ Organizations face challenges in retaining employees. This dashboard helps answe
 
 ---
 
-## 📈 Dashboard Features
+## Dashboard Features
 - Department-wise employee distribution
 - Job role comparison analysis
 - Attrition trend visualization
@@ -34,7 +34,7 @@ Organizations face challenges in retaining employees. This dashboard helps answe
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Tableau Public
 - Data Visualization
 - HR Analytics Concepts
@@ -42,7 +42,7 @@ Organizations face challenges in retaining employees. This dashboard helps answe
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - Sales department shows the highest workforce concentration
 - Research & Development has multiple job roles with high representation
 - HR department has lower headcount but visible attrition impact
@@ -50,13 +50,13 @@ Organizations face challenges in retaining employees. This dashboard helps answe
 
 ---
 
-## 🔗 Live Dashboard
+## Live Dashboard
 View interactive dashboard here:  
 *https://public.tableau.com/views/assignment_17655055221340/Question1*
 
 ---
 
-## 📌 Skills Demonstrated
+## Skills Demonstrated
 - HR Data Analysis
 - Tableau Dashboard Design
 - Business Intelligence
